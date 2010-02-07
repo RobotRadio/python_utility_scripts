@@ -1,5 +1,5 @@
 """
-  author : greenbot
+  author : robotradio
   version : 2.6.2010
   description : a collection of prime number functions.
 """
